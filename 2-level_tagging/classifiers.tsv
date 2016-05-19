@@ -1,4 +1,4 @@
-#n - noun, num - количественное числительное, onum - порядковое числитльное, C - classifier, a-adjective    
+#n - noun, num - количественное числительное, onum - порядковое числитльное, C - classifier, a-adjective		
 position	TAG	доп.условия
 n+num+C	<PL.DEF>	num != หนึ่ง
 n+num+C	<DEF>	num = หนึ่ง
